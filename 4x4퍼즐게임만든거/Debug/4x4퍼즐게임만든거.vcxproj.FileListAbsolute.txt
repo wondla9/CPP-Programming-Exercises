@@ -1,0 +1,2 @@
+C:\Users\edyba\Desktop\동아대5\전자응용설계\4x4퍼즐게임만든거\Debug\4x4퍼즐게임만든거.exe
+C:\Users\edyba\Desktop\동아대5\전자응용설계\4x4퍼즐게임만든거\Debug\4x4퍼즐게임만든거.pdb
