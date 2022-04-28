@@ -1,0 +1,9 @@
+delivery 배달
+entry 참가등록
+interests 이익
+object 목표
+permit 허가증
+sense 감각
+request 요청하다
+advice 충고
+order 명령하다
